@@ -1,0 +1,7 @@
+#Fri Dec 09 22:52:06 BDT 2016
+base.0=/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fecfa0c69d062d04f564124146aa2a67ad954bb0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48ffb4a15c308fbdefb3953bdd5b2ab2784abd79/classes.dex
+base.1=/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48ffb4a15c308fbdefb3953bdd5b2ab2784abd79
+file.0=/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fecfa0c69d062d04f564124146aa2a67ad954bb0/classes.dex

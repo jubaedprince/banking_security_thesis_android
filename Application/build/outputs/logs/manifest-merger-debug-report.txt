@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:16:1-53:12
+	package
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:17:5-52
+	android:versionName
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:21:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:22:22-72
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:25:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:26:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:29:22-78
+application
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:31:5-51:19
+MERGED from [com.android.support:support-v13:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:23:5-20
+	android:label
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:34:9-49
+	android:allowBackup
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:33:9-43
+	android:theme
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:35:9-53
+activity#com.example.android.fingerprintdialog.MainActivity
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:36:9-38:65
+	android:label
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:38:13-53
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:37:13-41
+activity#com.example.android.fingerprintdialog.SettingsActivity
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:39:9-41:55
+	android:label
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:41:13-52
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:40:13-45
+activity#com.example.android.fingerprintdialog.CameraActivity
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:42:9-61
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:42:19-49
+activity#com.example.android.fingerprintdialog.UserActivity
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:43:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:47:27-74
+activity#com.example.android.fingerprintdialog.CreditActivity
+ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:50:9-61
+	android:name
+		ADDED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml:50:19-49
+uses-sdk
+INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:21:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:24.1.1] /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/src/main/AndroidManifest.xml

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_609eafec7152f43c04c187d94e228f72f9b3b89d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_ca4d49c51f7142533fee4f34f38cf598c5185ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3aa7f377e93296b3e8b6fa5242524c47f4bc6b1">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48ffb4a15c308fbdefb3953bdd5b2ab2784abd79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_4e13464b0c01e756343e44ea13fc662e2481571f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_4579a65db41c1fa07dfe2418631f2211a610d33c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_63edfc72f23c06188bfd0c5903ab5ba201f90fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="644740295b74099bb5e8e8bce0997b9c478db95c">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fecfa0c69d062d04f564124146aa2a67ad954bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_f6b78acc65d282cb683b14d4da02f71f1fe21aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_a1ad8dafc6dc779880e69f4b154b77e7174008ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_b142104ea24ba90891896b880655e6273ae27ba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/Jubaed/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_205071754f5977ec280b07702e42df1ac8a9ea48/classes.dex" />
+    </item>
+
+</items>
